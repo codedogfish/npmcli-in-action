@@ -1,0 +1,48 @@
+{
+  "name": "npmcli-in-action",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "lib"
+  ],
+  "main": "lib",
+  "keywords": [
+    "cli-app",
+    "cli",
+    "front-end",
+    "development",
+    "dev",
+    "build",
+    "web",
+    "tool",
+    "scaffold",
+    "stack",
+    "yeoman",
+    "generator",
+    "generate",
+    "app",
+    "boilerplate"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cli-list": "^0.1.1",
+    "meow": "^3.0.0"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedogfish/npmcli-in-action.git"
+  },
+  "bin": {
+    "npmcli": "lib/cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedogfish/npmcli-in-action/issues"
+  },
+  "homepage": "https://github.com/codedogfish/npmcli-in-action#readme"
+}
